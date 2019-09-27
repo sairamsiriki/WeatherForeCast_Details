@@ -7,10 +7,11 @@ A simple python web crawler to fetch weather forecast details of a city (https:/
 ### Installation
 
 The chrome driver need to be downloaded, the version of chrome driver and Google chrome version in the system should be same.
+Please use the link to download the google chrome driver : https://chromedriver.chromium.org/downloads.
 
 After downloading or cloning the repo, Navigate to the directory containing the files and run 
 
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 to install the dependencies.
 
